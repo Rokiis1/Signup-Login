@@ -6,7 +6,7 @@
 
 ## General info
 
-My first small project to try create login application and it's work but there are some issues so i fix later on when I learn more and go deeper.
+I created a connection application that has a few problems, but the work on it will continue to improve as I have more knowledge.
 
 ## Technologies
 
