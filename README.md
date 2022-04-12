@@ -2,7 +2,7 @@
 
 - [General info](#general-info)
 - [Technologies](#technologies)
-- [Link](#link)
+
 
 ## General info
 
@@ -14,6 +14,3 @@ Project is created with:
 
 - php
 
-## link
-
-link:
